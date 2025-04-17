@@ -2,7 +2,7 @@
   Email spam classifier
 
 
-# introduction:
+# Introduction:
   A machine learning project to detect whether an email is **spam** or **ham** (not spam) using natural language processing (NLP) techniques and classification algorithms.
   Email spam filtering is a classic yet essential problem in text classification, widely used in real-world email services. This project walks through building a spam filter from scratch using Python, Scikit-learn, and NLP tools. It’s a great introduction to text preprocessing, vectorization, and machine learning model building.
 
